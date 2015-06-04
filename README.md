@@ -25,3 +25,5 @@
 * Shows abstract thinking
 * Can you work with problems that seem impossible? if so, how do you make them possible?
 * Answer: open to interpretation (problem solving, oop, real programmers get this.)
+
+####Tell me something that is true, that very few people agree with you on? -Peter Thiel 
